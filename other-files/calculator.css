@@ -38,5 +38,7 @@ body {
   button:hover {
     background-color: #ccc;
   }
-  
+  h1{
+    text-align: center;
+  }
   
